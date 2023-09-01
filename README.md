@@ -104,7 +104,7 @@ When I'm not coding or analyzing financial markets, you can find me:
 
 🔹 Envisioned future enhancements such as integrating a hybrid cloud-blockchain system and advanced secure multi-party computation protocols.
 
-🔗 [GitHub Repo](YOUR_LINK_HERE)
+🔗 [View on GitHub](https://github.com/WANG-Tingyu/Healthcare-Data-Sharing-System)
 
 ### 👀 Ethereum Data Analytics & Visualization
 
