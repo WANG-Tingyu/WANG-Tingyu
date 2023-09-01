@@ -19,7 +19,7 @@ I'm a passionate **Computer Science** student 👩‍💻 with a diverse set of 
 - **Trading**: Gained knowledge in Quantitative and Algorithmic Trading.
 
 ## 📈 Finance & Fintech
-Finance? Yes, you read that right! I've always had a knack for finance which led me to pursue a minor in it and even bag a master's degree in **Fintech**! :moneybag: My next mission? The **CFA** certificate. Currently, I'm deep-diving into quantitative and algorithmic trading.
+I've always had a knack for finance which led me to pursue a minor in it and even bag a master's degree in **Fintech**! :moneybag: My next mission is the **CFA** certificate. Currently, I'm deep-diving into quantitative and algorithmic trading.
 
 ## 🎾 Hobbies
 When I'm not coding or analyzing financial markets, you can find me:
