@@ -94,7 +94,7 @@ When I'm not coding or analyzing financial markets, you can find me:
 
 🔹 Emphasized on the pivotal aspect of strategy validation to combat overfitting and promoted rigorous out-of-sample testing to warrant robustness amidst varying market scenarios.
 
-🔗 [GitHub Repo](YOUR_LINK_HERE)
+🔗 [View on GitHub](https://github.com/WANG-Tingyu/Technical-Indicator)
 
 ### 👀 Applied Blockchain: Healthcare Data Sharing System
 
