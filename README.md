@@ -122,7 +122,7 @@ When I'm not coding or analyzing financial markets, you can find me:
 
 🔹 Enhanced public safety during times of need by processing image or video inputs for mask detection.
 
-🔗 [GitHub Repo](YOUR_LINK_HERE)
+🔗 [View on GitHub](https://github.com/WANG-Tingyu/Face-Mask-Detection-CNN)
 
 ### 👀 Coupon Redemption Management Web App
 
