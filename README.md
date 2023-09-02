@@ -96,6 +96,17 @@ When I'm not coding or analyzing financial markets, you can find me:
 
 🔗 [View on GitHub](https://github.com/WANG-Tingyu/Technical-Indicator)
 
+### 👀 Information Security Project: Network Transmission Simulation between Students and School System
+#### Scenario: Simulated Students Submitting Reports to the Blackboard System.
+
+🔹 Authentication Methods: While traditionally the server's identity was validated using TLS and student authentication was via username/password, in this simulation, students were authenticated through certificates signed by CUHK. Blackboard was assumed to have direct access to the CUHK root certificate, mirroring modern browsers.
+
+🔹 Technical Implementation: Utilized Python Socket Programming for message transmission among CUHK.py, Student.py, and Blackboard.py. Key pair generation, certificate creation, and cryptographic operations were performed using the pycryptodome and cryptography libraries.
+
+🔹 Cryptography: Key pair generation, Certificate creation and verification, Public key extraction from certificates, RSA and AES encryption/decryption methods
+
+🔗 [View on GitHub](https://github.com/WANG-Tingyu/SubmissionSystem)
+
 ### 👀 Applied Blockchain: Healthcare Data Sharing System
 
 🔹 Innovated a blockchain solution to streamline health data sharing, making case sharing and medical processes more straightforward.
