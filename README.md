@@ -114,7 +114,7 @@ When I'm not coding or analyzing financial markets, you can find me:
 
 🔹 Employed InfluxDB and Neo4j for immaculate transaction data visualizations.
 
-🔗 [GitHub Repo](YOUR_LINK_HERE)
+🔗 [View on GitHub](https://github.com/WANG-Tingyu/Eth-Data-Analytics-Visualization)
 
 ### 👀 Computer Vision: Mask Detection
 
@@ -132,7 +132,7 @@ When I'm not coding or analyzing financial markets, you can find me:
 
 🔹 Navigated the entire development spectrum: from requirement analysis and design to rigorous testing.
 
-🔗 [GitHub Repo](YOUR_LINK_HERE)
+🔗 [GitHub Repo Waiting](YOUR_LINK_HERE)
 
 
 
