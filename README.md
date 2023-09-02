@@ -36,10 +36,10 @@ When I'm not coding or analyzing financial markets, you can find me:
 5. **Stay Active**: Improve my tennis skill.
 
 # 🚀 My Projects
-### Data Sharing Platform with Hyperledger Fabric Blockchain Tech
-#### Breaking Boundaries in Distributed Networking!
+### 👀 Data Sharing Platform with Hyperledger Fabric Blockchain 
+#### A Secured Real-time Data Sharing Network for multiple parties. Support data assets in 3 categories: i) public, ii) shared and iii) private. 
 
-🔹 **Reimagined Data Security**: Conceived a rock-solid distributed network for businesses, classifying data assets as public, shared, or private.
+🔹 **Reimagined Data Security**: Conceived a rock-solid distributed network for businesses.
 
 🔹 **Decentralizing Data Sharing**: Fostered the exchange of high-sensitivity data among designated parties via fortified channels, bypassing the need for centralized servers.
 
